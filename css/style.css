@@ -1,0 +1,76 @@
+h6{
+    background-color:black ;
+    margin: 10px;
+    padding: 20px;
+    
+   
+
+font-size: 15px;
+
+}
+h2{
+    background-color: black;
+    padding: 20px;
+}
+button{
+    background-color: black;
+    
+    margin: 8px;
+    padding: 3px;
+    margin-left: 700px;
+   
+}
+h1{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    
+
+}
+*{
+    background-color: black;
+}
+button h6{
+    background: black;
+    width: 800% ;
+    color: #fd7e14;
+}
+h3{
+    color: #ffffff;;
+  margin-left: 500px;
+ 
+font-size: 15px;
+
+
+}
+.second h1{
+    color: green;
+    padding: 10px;
+    padding-left: 2px;
+    padding-left: 100px;
+    
+}
+
+
+navbar{
+    color: blue;
+    margin-right: 90px;
+
+    
+}
+#Browse{
+    padding: 3rem;
+    color: #fd7e14;
+    padding-left: 300px;
+
+}
+p{
+    color: #e4e4e4;
+  
+}
+navbar par2{
+    
+
+}
+navabar part3{
+
+}
